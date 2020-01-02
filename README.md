@@ -9,12 +9,12 @@
 ![G-Board Version 0.1](https://github.com/2technology/g-board/blob/master/g-board_v_01.jpg?raw=true "G-Board V0.1")
   
 ### Features
-#### 1 * 12V Relay rated 16A ([Schrack RTD34012](https://www.tme.eu/en/details/rtd34012/miniature-electromagnetic-relays/te-connectivity/3-1419108-5/) )
+#### 12V Relay rated 16A ([Schrack RTD34012](https://www.tme.eu/en/details/rtd34012/miniature-electromagnetic-relays/te-connectivity/3-1419108-5/) )
 ![Relay](https://github.com/2technology/g-board/blob/master/relay.jpg?raw=true "Relay")
-#### 4 * debounced pushbutton inputs
+#### 4 debounced pushbutton inputs
 ![Input-buttons](https://github.com/2technology/g-board/blob/master/debounced-buttons.jpg?raw=true "debounced inputs")
 
-#### 4 * WS2812b LED Output channels (with Logic Level Shifter [74HCT245N](https://www.aliexpress.com/item/4000115614415.html))
+#### 4 WS2812b LED Output channels (with Logic Level Shifter [74HCT245N](https://www.aliexpress.com/item/4000115614415.html))
 ![Logic-level-shifting](https://github.com/2technology/g-board/blob/master/esp32.jpg?raw=true "esp32")
 
 ### Schematic and PCB
