@@ -17,8 +17,10 @@
 #### 4 * WS2812b LED Output channels (with Logic Level Shifter [74HCT245N](https://www.aliexpress.com/item/4000115614415.html))
 ![Logic-level-shifting](https://github.com/2technology/g-board/blob/master/esp32.jpg?raw=true "esp32")
 
-### Schematic
+### Schematic and PCB
 View [Schematic (pdf)](https://github.com/2technology/g-board/blob/master/G-Board%20V0.1%20-%20Schematic.pdf)
+KiCAD  [Schematic](https://github.com/2technology/g-board/blob/master/G-board_V0_1.sch)
+KiCAD [PCB](https://github.com/2technology/g-board/blob/master/G-board_V0_1.kicad_pcb)
 ### Gerbers
 Download [Gerbers](https://github.com/2technology/g-board/blob/master/gerbers.zip)
 ### BOM
