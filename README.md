@@ -19,10 +19,10 @@
 
 ### Schematic
 View [Schematic (pdf)](https://github.com/2technology/g-board/blob/master/G-Board%20V0.1%20-%20Schematic.pdf)
-
+### Gerbers
+Download [Gerbers](https://github.com/2technology/g-board/blob/master/gerbers.zip)
 ### BOM
 
 ![BOM Version 0.1](https://github.com/2technology/g-board/blob/master/bom.jpg?raw=true "BOM G-Board V0.1")
 
-### Gerbers
-Download [Gerbers](https://github.com/2technology/g-board/blob/master/gerbers.zip)
+
