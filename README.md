@@ -1,4 +1,5 @@
 # G-board V 0.1!
+PCB design in order to use a ESP32 DevkitC to drive a relay and 4 seperate WS2812b-channels. It has terminal blocks for easy installation and up to 4 pushbuttons can be connected. It uses a Logic level shifter to communicate with the WS2812b led drivers. **Use case:** Smart lights room controller for Home assistant (ESP32 firmware created with ESPHome).
 
   - [ESP32 DEVKIT C 32D](https://www.aliexpress.com/item/4000434690235.html)
   - 4 * I2C connection headers
