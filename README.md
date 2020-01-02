@@ -8,3 +8,9 @@
   
 ![G-Board Version 0.1](https://github.com/2technology/g-board/blob/master/G-Board_V0.1_thumb.jpg?raw=true "G-Board V0.1")
   
+### Tech
+
+![Relay](https://github.com/2technology/g-board/blob/master/relay.jpg?raw=true "Relay")
+
+### Gerbers
+Download [Gerbers] ( https://github.com/2technology/g-board/blob/master/gerbers.zip)
