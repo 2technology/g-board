@@ -20,9 +20,7 @@
 ### Schematic and PCB
 View [Schematic (pdf)](https://github.com/2technology/g-board/blob/master/G-Board%20V0.1%20-%20Schematic.pdf)
 
-KiCAD  [Schematic](https://github.com/2technology/g-board/blob/master/G-board_V0_1.sch)
-
-KiCAD [PCB](https://github.com/2technology/g-board/blob/master/G-board_V0_1.kicad_pcb)
+Download KiCAD files: [Schematic](https://github.com/2technology/g-board/blob/master/G-board_V0_1.sch) [PCB](https://github.com/2technology/g-board/blob/master/G-board_V0_1.kicad_pcb)
 
 ### Gerbers
 Download [Gerbers](https://github.com/2technology/g-board/blob/master/gerbers.zip)
