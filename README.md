@@ -15,7 +15,7 @@
 ![Input-buttons](https://github.com/2technology/g-board/blob/master/debounced-buttons.jpg?raw=true "debounced inputs")
 
 #### Logic Level Shifter 74HCT245N
-![Logic-level-shifting](https://github.com/2technology/g-board/blob/master/esp3.jpg?raw=true "esp32")
+![Logic-level-shifting](https://github.com/2technology/g-board/blob/master/esp32.jpg?raw=true "esp32")
 
 
 
