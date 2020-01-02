@@ -9,7 +9,7 @@
 ![G-Board Version 0.1](https://github.com/2technology/g-board/blob/master/G-Board_V0.1_thumb.jpg?raw=true "G-Board V0.1")
   
 ### Tech
-#### 1 * 12V Relay rated 16A (Schrack RTD34012 )
+#### 1 * 12V Relay rated 16A ([Schrack RTD34012](https://www.tme.eu/en/details/rtd34012/miniature-electromagnetic-relays/te-connectivity/3-1419108-5/) )
 ![Relay](https://github.com/2technology/g-board/blob/master/relay.jpg?raw=true "Relay")
 #### 4 * debounced pushbutton inputs
 ![Input-buttons](https://github.com/2technology/g-board/blob/master/debounced-buttons.jpg?raw=true "debounced inputs")
