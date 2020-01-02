@@ -13,4 +13,4 @@
 ![Relay](https://github.com/2technology/g-board/blob/master/relay.jpg?raw=true "Relay")
 
 ### Gerbers
-Download [Gerbers] ( https://github.com/2technology/g-board/blob/master/gerbers.zip)
+Download [Gerbers](https://github.com/2technology/g-board/blob/master/gerbers.zip)
