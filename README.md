@@ -14,7 +14,7 @@
 #### 4 * debounced pushbutton inputs
 ![Input-buttons](https://github.com/2technology/g-board/blob/master/debounced-buttons.jpg?raw=true "debounced inputs")
 
-#### Logic Level Shifter 74HCT245N
+#### 4 * WS2812b LED Output channels (with Logic Level Shifter [74HCT245N](https://www.aliexpress.com/item/4000115614415.html))
 ![Logic-level-shifting](https://github.com/2technology/g-board/blob/master/esp32.jpg?raw=true "esp32")
 
 
