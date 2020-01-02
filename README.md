@@ -22,38 +22,7 @@ View [Schematic (pdf)](https://github.com/2technology/g-board/blob/master/G-Boar
 
 ### BOM
 
-**Capacitor SMD 1206**
-0.1μF --> 3
-10μF --> 3
-1nF --> 4
-**Resistor SMD 1206**
-10kΩ	5
-1k	1
-1kΩ	1
-220Ω	4
-330Ω	4
-4.7kΩ	2
-**Diode THT DO-35 SOD27**	
-1N4148	1
-**TerminalBlock Phoenix MKDS-1,5-5-5.08 1x05 P5.08mm Horizontal**	
-aRGB LEDs	1
-POWER + LED	1
-Schakelaars	1
-**PinHeader 1x04 P2.54mm Vertical**	
-I2C	4
-**LED THT D3.0mm**	
-LED	1
-**ESP32-DEVKITC-32D**	
-ESP32-DEVKITC-32D	1
-**N-Mosfet TO-220**	
-IRFZ44N	1
-**Voltage regulator TO-220**	
-LM1117-3.3	1
-**Logic Level Convertor DIP254P762X508-20**	
-MM74HCT245N	1
-**Relay Schrack RTD34012 12V (rated 16A)**	
-RTD34012	1
-
+![BOM Version 0.1](https://github.com/2technology/g-board/blob/master/bom.jpg?raw=true "BOM G-Board V0.1")
 
 ### Gerbers
 Download [Gerbers](https://github.com/2technology/g-board/blob/master/gerbers.zip)
