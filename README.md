@@ -20,6 +20,9 @@
 ### Schematic
 View [Schematic (pdf)](https://github.com/2technology/g-board/blob/master/G-Board%20V0.1%20-%20Schematic.pdf)
 
+### BOM
+
+wip
 
 ### Gerbers
 Download [Gerbers](https://github.com/2technology/g-board/blob/master/gerbers.zip)
