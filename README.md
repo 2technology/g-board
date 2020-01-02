@@ -11,6 +11,7 @@
 ### Tech
 #### 1 * 12V Relay rated 16A (Schrack RTD34012 )
 ![Relay](https://github.com/2technology/g-board/blob/master/relay.jpg?raw=true "Relay")
-
+#### 4 * debounced pushbutton inputs
+![Input-buttons](https://github.com/2technology/g-board/blob/master/debounced-buttons.jpg?raw=true "Relay")
 ### Gerbers
 Download [Gerbers](https://github.com/2technology/g-board/blob/master/gerbers.zip)
