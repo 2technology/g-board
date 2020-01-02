@@ -26,5 +26,5 @@ Download [Gerbers](https://github.com/2technology/g-board/blob/master/gerbers.zi
 ![BOM Version 0.1](https://github.com/2technology/g-board/blob/master/bom.jpg?raw=true "BOM G-Board V0.1")
 
 ### Licence
-[GPD 3.0](https://github.com/2technology/g-board/blob/master/LICENSE)
+[GPL-3.0](https://github.com/2technology/g-board/blob/master/LICENSE)
 
